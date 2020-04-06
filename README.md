@@ -1,16 +1,16 @@
 ---
 description: >-
-  This bot is developed by @ThePhoDit#1801 and @iBisho#7130 and hosted by
+  Este bot es desarrollado por @ThePhoDit#1801 y@iBisho#7130, y alojado por
   @ThePhoDit#1801.
 ---
 
 # TutoPro
 
-TutoPro is a discord bot mainly meant to be used as a moderation one, although it has more different options. It is fully configurable through a YAML file, and you will learn how to set everything up through this guide.
+TutoPro es un bot de Discord cuya función principal es la de moderación, aunque tiene más opciones. Es completamente configurable mediante un archivo YAML, y aprenderás a configurar todo mediante esta guía.
 
-### Useful Links
+### Links de Utilidad
 
-[Support Server](https://discord.gg/aUNhdFD)
+[Servidor de Soporte](https://discord.gg/aUNhdFD)
 
 
 
