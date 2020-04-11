@@ -30,6 +30,9 @@ logs:
         - 'CENSOR'
         - 'COMMAND_USED'
         - 'SPAM'
+        - 'CHANNEL_CREATE'
+        - 'CHANNEL_UPDATE'
+        - 'CHANNEL_DELETE'
 ```
 
 **Timezone:** region that the bot will use to get the date. You can see all available timezones [here](https://timezonedb.com/time-zones) \(please check the Time Zone column\).
