@@ -9,18 +9,24 @@ commands:
   ping:
     permission: 0
     enabled: true
+    only_channels:
+      - 'Channel ID 1'
+      - 'Channel ID 2'
     disabled_channels:
       - 'Channel ID 1'
       - 'Channel ID 2'
   warn:
     permission: 50
     enabled: true
+    only_channels: []
     disabled_channels: []
 ```
 
 **Permission:** level needed to run the command. If the user has the same level or higher in the [levels module](levels.md), they will be able to run it. If you want to allow every user to use the command, set it to level `0`. By default, the bot uses level 100.
 
 **Enabled:** it can be `true` or `false`. If it is false, nobody can use the command. By default, true is used.
+
+**Only Channels:** list of channels where the bot will only work. This overrides `disabled_channels`.
 
 **Disabled Channels:** list of channels where the command cannot be used. By default, none of them are in there.
 
