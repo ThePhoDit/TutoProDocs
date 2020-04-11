@@ -21,7 +21,7 @@ logs:
         - 'MUTE_RMV'
         - 'TEMPMUTE_ADD'
         - 'GUILD_MEMBER_ADD'
-        - 'GUIILD_MEMBER_RMV'
+        - 'GUILD_MEMBER_RMV'
         - 'VOICE_JOIN'
         - 'VOICE_MOVE'
         - 'VOICE_LEAVE'
