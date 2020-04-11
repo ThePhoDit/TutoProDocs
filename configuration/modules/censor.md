@@ -104,6 +104,6 @@ I like sayingthetoken**Hello**lol -&gt; Would be deleted.
 {% endhint %}
 
 {% hint style="warning" %}
-Remember that words and tokens are case sensitive.
+Remember that words and tokens are case insensitive.
 {% endhint %}
 
