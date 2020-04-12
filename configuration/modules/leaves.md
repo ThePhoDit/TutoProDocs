@@ -3,7 +3,7 @@
 Leaves module works exactly in the same way as the joins one, but it is activated when someone leaves the server.
 
 ```yaml
-joins:
+leaves:
   enabled: true
   channels:
     - id: 'Channel ID 1'
