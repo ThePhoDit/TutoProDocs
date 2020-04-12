@@ -82,6 +82,14 @@ description: >-
 ;unban {user} [reason]
 ```
 
+### Clean messages:
+
+```text
+;clean {amount}
+or
+;clean {user} {amount}
+```
+
 {% hint style="info" %}
 #### Showing the Moderator
 
