@@ -7,13 +7,13 @@ If you select a language that is not on the list, English will be selected by de
 {% endhint %}
 
 ```yaml
-locale: 'en'
+locale: 'en-US'
 ```
 
 ## Available Locales 
 
 | Locale Code | Language |
 | :--- | :--- |
-| en | English |
-| es | Spanish |
+| en-US | English \(United States\) |
+| es-ES | Spanish \(Spain\) |
 
