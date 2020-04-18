@@ -90,6 +90,14 @@ or
 ;clean {user} {amount}
 ```
 
+### Ban multiple users:
+
+```text
+;mban {users} [-r] [reason]
+```
+
+> User IDs must be separated by a space. The -r tag means that the reason starts from there.
+
 {% hint style="info" %}
 #### Showing the Moderator
 

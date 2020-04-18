@@ -16,6 +16,7 @@
   * [Infractions](configuration/modules/infractions.md)
   * [Logs](configuration/modules/logs.md)
   * [Censor](configuration/modules/censor.md)
+  * [Suggestions](configuration/modules/suggestions.md)
   * [Joins](configuration/modules/joins.md)
   * [Leaves](configuration/modules/leaves.md)
 
@@ -26,4 +27,6 @@
   * [Import](commands/configuration/import.md)
 * [Moderation](commands/moderation.md)
 * [Tags](commands/tags.md)
+* [Suggestions](commands/suggestions.md)
+* [Reminders](commands/reminders.md)
 

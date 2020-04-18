@@ -4,7 +4,7 @@ description: Tags are like custom commands you can use to provide information.
 
 # Tags
 
-You can choose who can use tags in the [Commands module](../configuration/modules/commands.md). Just use the same syntax, utilizing `use_tags` as a command name. It should look something like this:
+You can choose who can use tags inside the [Commands module](../configuration/modules/commands.md). Just use the same syntax, utilizing `use_tags` as a command name. It should look something like this:
 
 ```yaml
 use_tags:
