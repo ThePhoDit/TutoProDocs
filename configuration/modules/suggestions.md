@@ -1,6 +1,6 @@
 # Suggestions
 
-Suggestions are an essential part of TutoPro. They allow users to upgrade communities by letting the administrators what they would like to see.
+Suggestions are an essential part of TutoPro. They allow users to upgrade communities by letting the administrators know what they would like to see.
 
 Let's see how this module is configured:
 
