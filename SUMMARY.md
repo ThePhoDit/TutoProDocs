@@ -29,4 +29,5 @@
 * [Tags](commands/tags.md)
 * [Suggestions](commands/suggestions.md)
 * [Reminders](commands/reminders.md)
+* [Miscellaneous](commands/miscellaneous.md)
 
