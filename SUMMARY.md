@@ -1,6 +1,7 @@
 # Table of contents
 
 * [TutoPro](README.md)
+* [Premium](premium.md)
 
 ## Configuration
 
@@ -17,6 +18,7 @@
   * [Logs](configuration/modules/logs.md)
   * [Censor](configuration/modules/censor.md)
   * [Suggestions](configuration/modules/suggestions.md)
+  * [Security](configuration/modules/security.md)
   * [Joins](configuration/modules/joins.md)
   * [Leaves](configuration/modules/leaves.md)
 
