@@ -34,3 +34,9 @@ description: Variety of commands that you might find usefull.
 
 > Works with the [security module](../configuration/modules/security.md), and it is a premium command.
 
+### Make a huge emoji:
+
+```text
+;jumbo {emoji}
+```
+
