@@ -34,6 +34,12 @@ description: Variety of commands that you might find usefull.
 
 > Works with the [security module](../configuration/modules/security.md), and it is a premium command.
 
+### Give a role to all members:
+
+```text
+;multirole {role}
+```
+
 ### Make a huge emoji:
 
 ```text
