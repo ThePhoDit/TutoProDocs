@@ -4,6 +4,10 @@
 
 The import command allows you to change your server's current configuration.
 
+### Required Level
+
+Level 100
+
 ### Usage
 
 ```text

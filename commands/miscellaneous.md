@@ -4,19 +4,19 @@ description: Variety of commands that you might find usefull.
 
 # Miscellaneous
 
-### Check the latency of the bot:
+### Check the latency of the bot:  \(0\)
 
 ```text
 ;ping
 ```
 
-### Fetch information of a user:
+### Fetch information of a user:  \(0\)
 
 ```text
 ;user [user]
 ```
 
-### Create an embed:
+### Create an embed:  \(100\)
 
 ```text
 ;embed {channel} {JSON code}
@@ -24,7 +24,7 @@ description: Variety of commands that you might find usefull.
 
 > This is a premium command.
 
-### Access secured server roles:
+### Access secured server roles:  \(0\)
 
 ```text
 ;password {secret code}
@@ -34,13 +34,19 @@ description: Variety of commands that you might find usefull.
 
 > Works with the [security module](../configuration/modules/security.md), and it is a premium command.
 
-### Give a role to all members:
+### Give or remove a role to all members:  \(100\)
 
 ```text
-;multirole {role}
+;multirole {add/remove} {required role} {role to give} [bots]
+
+========
+
+[NOTE]
+Required Role: user needs to have this role to receive/get removed the role.
+Bots is literally the word "bots". If you put it, the role will be also given to bots.
 ```
 
-### Make a huge emoji:
+### Make a huge emoji:  \(0\)
 
 ```text
 ;jumbo {emoji}

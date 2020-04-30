@@ -22,7 +22,7 @@ commands:
     disabled_channels: []
 ```
 
-**Permission:** level needed to run the command. If the user has the same level or higher in the [levels module](levels.md), they will be able to run it. If you want to allow every user to use the command, set it to level `0`. By default, the bot uses level 100.
+**Permission:** level needed to run the command. If the user has the same level or higher in the [levels module](levels.md), they will be able to run it. If you want to allow every user to use the command, set it to level `0`. By default, the bot uses the level associated to the command. Please check the [commands levels](../../commands/commands-levels.md) section.
 
 **Enabled:** it can be `true` or `false`. If it is false, nobody can use the command. By default, true is used.
 

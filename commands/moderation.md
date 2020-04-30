@@ -6,7 +6,7 @@ description: >-
 
 # Moderation
 
-### Search for a specific user infractions:
+### Search for a specific user infractions: \(60\)
 
 ```text
 ;infractions {user}
@@ -14,13 +14,13 @@ description: >-
 ;infrs {user}
 ```
 
-### Change the reason of an infraction:
+### Change the reason of an infraction: \(60\)
 
 ```text
 ;reason {infraction ID} {new reason}
 ```
 
-### Change the duration of an infraction:
+### Change the duration of an infraction: \(60\)
 
 ```text
 ;duration {infraction ID} {new duration}
@@ -28,13 +28,13 @@ description: >-
 
 > Only works on temporary infractions.
 
-### Warn someone:
+### Warn someone: \(60\)
 
 ```text
 ;warn {user} [reason]
 ```
 
-### Mute someone:
+### Mute someone: \(60\)
 
 ```text
 ;mute {user} [reason]
@@ -42,7 +42,7 @@ description: >-
 
 > Mute Role is required in the [Infractions module](../configuration/modules/infractions.md).
 
-### Temporarily mute someone:
+### Temporarily mute someone: \(60\)
 
 ```text
 ;tempmute {user} {duration} [reason]
@@ -50,7 +50,7 @@ description: >-
 
 > Mute Role is required in the [Infractions module](../configuration/modules/infractions.md).
 
-### Unmute a muted user:
+### Unmute a muted user: \(60\)
 
 ```text
 ;unmute {user} [reason]
@@ -58,31 +58,31 @@ description: >-
 
 > Mute Role is required in the [Infractions module](../configuration/modules/infractions.md).
 
-### Kick someone from the server:
+### Kick someone from the server: \(60\)
 
 ```text
 ;kick {user} [reason]
 ```
 
-### Ban someone:
+### Ban someone: \(60\)
 
 ```text
 ;ban {user} [reason]
 ```
 
-### Temporarily ban someone:
+### Temporarily ban someone: \(60\)
 
 ```text
 ;tempban {user} {duration} [reason]
 ```
 
-### Unban someone who is banned:
+### Unban someone who is banned: \(60\)
 
 ```text
 ;unban {user} [reason]
 ```
 
-### Clean messages:
+### Clean messages: \(60\)
 
 ```text
 ;clean {amount}
@@ -90,7 +90,7 @@ or
 ;clean {user} {amount}
 ```
 
-### Ban multiple users:
+### Ban multiple users: \(60\)
 
 ```text
 ;mban {users} [-r] [reason]

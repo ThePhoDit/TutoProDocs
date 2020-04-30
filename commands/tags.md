@@ -17,7 +17,7 @@ This works in the exact same way as the rest of commands do.
 
 Now that you know how to control who can use your tags, let's see some useful commands:
 
-### Get a list of tags:
+### Get a list of tags:  \(40\)
 
 ```text
 ;taglist
@@ -25,7 +25,7 @@ Now that you know how to control who can use your tags, let's see some useful co
 ;listtag
 ```
 
-### Create a tag:
+### Create a tag:  \(100\)
 
 ```text
 ;createtag {name} {content}
@@ -33,7 +33,7 @@ Now that you know how to control who can use your tags, let's see some useful co
 ;addtag {name} {content}
 ```
 
-### Edit a tag:
+### Edit a tag: \(100\)
 
 ```text
 ;changetag {name/id} {new content}
@@ -41,7 +41,7 @@ Now that you know how to control who can use your tags, let's see some useful co
 ;edittag {name/id} {new content}
 ```
 
-### Delete a tag:
+### Delete a tag:  \(100\)
 
 ```text
 ;deletetag {name/id}
@@ -49,7 +49,7 @@ Now that you know how to control who can use your tags, let's see some useful co
 ;deltag {name/id}
 ```
 
-### Fetch information about a tag:
+### Fetch information about a tag:  \(40\)
 
 ```text
 ;infotag {name/id}

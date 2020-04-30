@@ -24,6 +24,7 @@
 
 ## Commands
 
+* [Commands Levels](commands/commands-levels.md)
 * [Configuration](commands/configuration/README.md)
   * [Export](commands/configuration/export.md)
   * [Import](commands/configuration/import.md)
