@@ -16,4 +16,11 @@ locale: 'en-US'
 | :--- | :--- |
 | en-US | English \(United States\) |
 | es-ES | Spanish \(Spain\) |
+| es-CL | Spanish \(Chile\) |
+| ca-ES | Catalan \(Spain\) |
+| ro-RO | Romanian \(Romania\) |
+
+{% hint style="warning" %}
+Keep in mind that translations are made by the community and they might not be complete.
+{% endhint %}
 
