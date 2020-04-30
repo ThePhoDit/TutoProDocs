@@ -37,7 +37,7 @@ description: Variety of commands that you might find usefull.
 ### Give or remove a role to all members:  \(100\)
 
 ```text
-;multirole {add/remove} {required role} {role to give} [bots]
+;multirole {add/remove} {required role} {role to give/remove} [bots]
 
 ========
 
