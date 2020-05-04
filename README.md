@@ -1,7 +1,7 @@
 ---
 description: >-
-  This bot is developed by @ThePhoDit#1801 and @iBisho#7130 and hosted by
-  @ThePhoDit#1801.
+  This bot is developed by @ThePhoDit#4806 and @iBisho#7130 and hosted by
+  @ThePhoDit#4806.
 ---
 
 # TutoPro
