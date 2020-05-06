@@ -52,3 +52,21 @@ Bots is literally the word "bots". If you put it, the role will be also given to
 ;jumbo {emoji}
 ```
 
+### Get the list of commands or specific information about one: \(0\)
+
+```text
+;commands [command]
+```
+
+### Get some help: \(0\)
+
+```text
+;help
+```
+
+### Get the support server invite link: \(0\)
+
+```text
+;support
+```
+

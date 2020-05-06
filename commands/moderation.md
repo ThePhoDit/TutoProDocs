@@ -98,6 +98,12 @@ or
 
 > User IDs must be separated by a space. The -r tag means that the reason starts from there.
 
+### Kick someone from a voice channel: \(60\)
+
+```text
+;voicekick {user}
+```
+
 {% hint style="info" %}
 #### Showing the Moderator
 
