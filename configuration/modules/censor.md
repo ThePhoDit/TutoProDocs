@@ -15,6 +15,8 @@ censor:
   invites_guilds_whitelist:
     - 'Guild ID 1'
   invites_channels_whitelist: []
+  invites_roles_whitelist: []
+  invites_users_whitelist: []
   invites_categories_whitelist: []
 
   filter_links: true
@@ -24,6 +26,8 @@ censor:
   links_channels_whitelist:
     - 'Channel ID 1'
     - 'Channel ID 2'
+  links_roles_whitelist: []
+  links_users_whitelist: []
   links_categories_whitelist: []
 
   filter_tokens: true
@@ -34,6 +38,8 @@ censor:
     - 'Channel ID 1'
     - 'Channel ID 2'
     - 'Channel ID 3'
+  tokens_roles_whitelist: []
+  tokens_users_whitelist: []
   tokens_categories_whitelist: []
 
   filter_words: true
@@ -41,6 +47,8 @@ censor:
     - 'Word 1'
     - 'Word 2'
   words_channels_whitelist: []
+  words_roles_whitelist: []
+  words_users_whitelist: []
   words_categories_whitelist: []
 ```
 
@@ -57,6 +65,10 @@ censor:
 
 **Invites Channels Whitelist:** list of channels where this section of the module will be disabled. Any invite will be allowed.
 
+**Invites Roles Whitelist:** list of roles that will be ignored.
+
+**Invites Users Whitelist:** list of users that will be ignored.
+
 **Invites Categories Whitelist:** whole categories where no invites will be censored.
 {% endtab %}
 
@@ -66,6 +78,10 @@ censor:
 **Links Domains Whitelist:** list of domains that will be ignored by TutoPro.
 
 **Links Channels Whitelist:** list of channels where this section of the module will be disabled. Any URL will be allowed.
+
+**Links Roles Whitelist:** list of roles that will be ignored.
+
+**Links Users Whitelist:** list of users that will be ignored.
 
 **Links Categories Whitelist:** whole categories where no links will be censored.
 {% endtab %}
@@ -77,6 +93,10 @@ censor:
 
 **Words Channels Whitelist:** list of channels where this section of the module will be disabled.
 
+**Words Roles Whitelist:** list of roles that will be ignored.
+
+**Words Users Whitelist:** list of users that will be ignored.
+
 **Words Categories Whitelist:** whole categories where no words will be censored.
 {% endtab %}
 
@@ -86,6 +106,10 @@ censor:
 **Tokens Blacklist:** list of tokens that will be deleted.
 
 **Tokens Channels Whitelist:** list of channels where this section of the module will be disabled. Any token will be accepted.
+
+**Tokens Roles Whitelist:** list of roles that will be ignored.
+
+**Tokens Users Whitelist:** list of users that will be ignored.
 
 **Tokens Categories Whitelist:** whole categories where no tokens will be censored.
 {% endtab %}
