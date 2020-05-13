@@ -2,6 +2,7 @@
 
 * [TutoPro](README.md)
 * [Premium](premium.md)
+* [FAQs](faqs.md)
 
 ## Configuration
 
@@ -19,6 +20,7 @@
   * [Censor](configuration/modules/censor.md)
   * [Suggestions](configuration/modules/suggestions.md)
   * [Security](configuration/modules/security.md)
+  * [Spam](configuration/modules/spam.md)
   * [Joins](configuration/modules/joins.md)
   * [Leaves](configuration/modules/leaves.md)
 
