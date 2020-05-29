@@ -104,6 +104,12 @@ or
 ;voicekick {user}
 ```
 
+### Get the list of server roles: \(60\)
+
+```text
+;roles
+```
+
 {% hint style="info" %}
 #### Showing the Moderator
 

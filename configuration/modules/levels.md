@@ -10,8 +10,8 @@ Here you have an example of how a simple configuration would look like. In this 
 levels:
   '459649180969730050': 150 # Owner ID
   '627156480595853322': 100 # Administrator Role
-  '627241194753359931': 50  # Moderator Role
-  '627241150817763380': 20  # Support Member Role
+  '627241194753359931': 60  # Moderator Role
+  '627241150817763380': 40  # Support Member Role
 ```
 
 {% hint style="info" %}
