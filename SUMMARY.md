@@ -35,3 +35,8 @@
 * [Reminders](commands/reminders.md)
 * [Miscellaneous](commands/miscellaneous.md)
 
+## other
+
+* [Badges](other/badges.md)
+* [User Agreement](other/user-agreement.md)
+
