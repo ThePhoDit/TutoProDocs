@@ -110,6 +110,12 @@ or
 ;roles
 ```
 
+### Change the slowmode time of the curresnt channel: \(40\)
+
+```text
+;slowmode {time in seconds}
+```
+
 {% hint style="info" %}
 #### Showing the Moderator
 
@@ -125,4 +131,6 @@ Example: `;warn {user} DM [reason]`
 
 Example: `;warn {user} ADM [reason]`
 {% endhint %}
+
+
 

@@ -19,6 +19,7 @@
   * [Logs](configuration/modules/logs.md)
   * [Censor](configuration/modules/censor.md)
   * [Suggestions](configuration/modules/suggestions.md)
+  * [Spam](configuration/modules/spam.md)
   * [Security](configuration/modules/security.md)
   * [Joins](configuration/modules/joins.md)
   * [Leaves](configuration/modules/leaves.md)
