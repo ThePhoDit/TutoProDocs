@@ -23,6 +23,7 @@ We only store the essential data for the bot to work. This data is:
 * Content from the messages triggering any [reminder](../commands/reminders.md) or [tag](../commands/tags.md) command. This content is sent by the bot and by saving it we ensure that it is not used for any inappropriate action.
 * [Suggestions](../commands/suggestions.md) content.
 * All [logs](../configuration/modules/logs.md) content, which is not really saved but is sent to the selected Discord channel, so it can be viewed by the server's administrators and moderators at any time.
+* Suggestions content in order to interact with it.
 
 This data is saved locally, so it never goes outside the storing machine. It is not accessible by anyone but Discord or any other legal entity with an order stating they can access it.
 
