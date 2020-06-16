@@ -116,6 +116,22 @@ or
 ;slowmode {time in seconds}
 ```
 
+### Lock a channel: \(60\)
+
+```text
+;lock [roles]
+```
+
+> Roles must be separated by spaces. If none, everyone is used.
+
+### Unlock a channel: \(60\)
+
+```text
+;unlock [roles]
+```
+
+> Roles must be separated by spaces. If none, everyone is used.
+
 {% hint style="info" %}
 #### Showing the Moderator
 

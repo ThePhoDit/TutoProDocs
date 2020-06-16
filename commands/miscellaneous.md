@@ -70,3 +70,9 @@ Bots is literally the word "bots". If you put it, the role will be also given to
 ;support
 ```
 
+### Get your or someone's avatar: \(0\)
+
+```text
+;avatar [member]
+```
+

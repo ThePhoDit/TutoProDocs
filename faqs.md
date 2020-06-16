@@ -12,9 +12,11 @@ You can find a complete guide about copying IDs [here](https://support.discordap
 
 Let any staff in the support server know and it will be online as soon as possible. Keep in mind that in most situations, the bot recovers itself.
 
-### TutoPro says it need administrator permissions, how can I change this?
+### Why is the bot not responding?
 
-You can't. The bot needs full permissions to properly operate.
+Check TutoPro's permissions. The ones asked when inviting the bot are required for everything to work.
+
+![Recommeded Permissions](.gitbook/assets/image%20%289%29.png)
 
 ### Why the mute command is not working?
 
