@@ -19,7 +19,7 @@ description: Variety of commands that you might find usefull.
 ### Create an embed:  \(100\)
 
 ```text
-;embed {channel} {JSON code}
+;embed {channel} {JSON code text/file}
 ```
 
 > This is a premium command.
