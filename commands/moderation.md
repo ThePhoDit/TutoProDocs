@@ -26,6 +26,12 @@ description: >-
 ;duration {infraction ID} {new duration}
 ```
 
+### Delete an infraction: \(60\)
+
+```text
+;delete {infraction ID}
+```
+
 > Only works on temporary infractions.
 
 ### Warn someone: \(60\)
