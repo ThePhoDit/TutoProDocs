@@ -40,4 +40,5 @@
 
 * [Badges](other/badges.md)
 * [User Agreement](other/user-agreement.md)
+* [Changelog](other/changelog.md)
 
