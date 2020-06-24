@@ -24,6 +24,8 @@ We only store the essential data for the bot to work. This data is:
 * [Suggestions](../commands/suggestions.md) content.
 * All [logs](../configuration/modules/logs.md) content, which is not really saved but is sent to the selected Discord channel, so it can be viewed by the server's administrators and moderators at any time.
 * Suggestions content in order to interact with it.
+* [Sent](../commands/miscellaneous.md#create-an-embed-100) and [edited](../commands/miscellaneous.md#edit-a-sent-embed-100) embeds channel and message IDs. Saved for security reasons.
+* [Say command](../commands/miscellaneous.md#send-a-message-to-a-channel-100) content in order to keep a responsible use of this function.
 
 This data is saved locally, so it never goes outside the storing machine. It is not accessible by anyone but Discord or any other legal entity with an order stating they can access it.
 

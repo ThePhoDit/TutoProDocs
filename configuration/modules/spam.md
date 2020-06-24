@@ -1,6 +1,6 @@
 # Spam
 
-Spam module keeps away to users who try to flood the chat spamming messages. You can filter by an amount of messages, an amount of duplicated messages or by the number of lines in a message.
+Spam module keeps away to users who try to flood the chat spamming messages. You can filter by an amount of messages, an amount of duplicated messages, or by the number of lines in a message.
 
 Here you have an example of how it is configured:
 
@@ -13,6 +13,8 @@ spam:
   channels_whitelist: []
   roles_whitelist: []
   users_whitelist: []
+  categories_whitelist: []
+  only_channels: []
   maximum_messages:
     enabled: true
     amount: 10
@@ -20,6 +22,8 @@ spam:
     channels_whitelist: []
     roles_whitelist: []
     users_whitelist: []
+    categories_whitelist: []
+    only_channels: []
   duplicated_messages:
     enabled: true
     amount: 5
@@ -27,12 +31,16 @@ spam:
     channels_whitelist: []
     roles_whitelist: []
     users_whitelist: []
+    categories_whitelist: []
+    only_channels: []
   maximum_lines:
     enabled: true
     amount: 5
     channels_whitelist: []
     roles_whitelist: []
     users_whitelist: []
+    categories_whitelist: []
+    only_channels: []
 ```
 
 **Enabled:** whether this module is on or off.
@@ -49,6 +57,10 @@ spam:
 
 **Users Whitelist:** list of users globally ignored.
 
+**Categories Whitelist:** list of categories to be ignored.
+
+**Only Channels:** list of channels where the module will only work.
+
 {% tabs %}
 {% tab title="Maximum Messages" %}
 **Enabled:** whether this section is enabled or disabled.
@@ -62,6 +74,10 @@ spam:
 **Channels Whitelist:** list of ignored channels.
 
 **Users Whitelist:** list of ignored users.
+
+**Categories Whitelist:** list of categories to be ignored.
+
+**Only Channels:** list of channels where this section will only work.
 {% endtab %}
 
 {% tab title="Duplicated Messages" %}
@@ -76,6 +92,10 @@ spam:
 **Channels Whitelist:** list of ignored channels.
 
 **Users Whitelist:** list of ignored users.
+
+**Categories Whitelist:** list of categories to be ignored.
+
+**Only Channels:** list of channels where this section will only work.
 {% endtab %}
 
 {% tab title="Maximum Lines" %}
@@ -88,6 +108,10 @@ spam:
 **Channels Whitelist:** list of ignored channels.
 
 **Users Whitelist:** list of ignored users.
+
+**Categories Whitelist:** list of categories to be ignored.
+
+**Only Channels:** list of channels where this section will only work.
 {% endtab %}
 {% endtabs %}
 

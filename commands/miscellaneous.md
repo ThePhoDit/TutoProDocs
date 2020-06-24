@@ -24,6 +24,14 @@ description: Variety of commands that you might find usefull.
 
 > This is a premium command.
 
+### Edit a sent embed: \(100\)
+
+```text
+;embededit {channel} {message ID} {new JSON code text/file}
+```
+
+> This is a premium command.
+
 ### Access secured server roles:  \(0\)
 
 ```text
@@ -75,4 +83,12 @@ Bots is literally the word "bots". If you put it, the role will be also given to
 ```text
 ;avatar [member]
 ```
+
+### Send a message to a channel: \(100\)
+
+```text
+;say [channel] {content}
+```
+
+> Messages sent with this command will be saved.
 
