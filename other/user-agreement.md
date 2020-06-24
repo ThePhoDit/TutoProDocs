@@ -10,7 +10,7 @@ Welcome, and thanks for choosing TutoPro as a moderation bot for your Discord se
 
 ## Bot Usage
 
-* Every server the bot is in has to be manages by at least one user.
+* Every server the bot is in has to be managed by at least one user.
 * If you find someone abusing of the bot, you do not hesitate to add them to the bot's [local blacklist](../configuration/modules/blacklist.md).
 * If we find that any server administrator is not properly utilizing TutoPro, the bot can be removed from it, previously receiving a formal warning.
 
@@ -29,5 +29,14 @@ We only store the essential data for the bot to work. This data is:
 
 This data is saved locally, so it never goes outside the storing machine. It is not accessible by anyone but Discord or any other legal entity with an order stating they can access it.
 
+### How can I get my data removed?
 
+If you want to delete your data you should contact phodit@phodit.net providing the following information:
+
+* Any confirmation that proves you are the owner of the account.
+* Data you want to delete.
+* Reason.
+* Does it affect anyone else?
+
+I will evaluate whether it should be removed or not based on your answers and reply to you within 5 business days.
 
