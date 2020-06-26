@@ -1,6 +1,6 @@
 ---
 description: >-
-  This bot is developed by @ThePhoDit#4806 and @iBisho#7130 and hosted by
+  This bot is developed by @ThePhoDit#4806 and @Bisho#7130 and hosted by
   @ThePhoDit#4806.
 ---
 
