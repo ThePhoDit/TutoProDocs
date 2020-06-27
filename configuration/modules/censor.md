@@ -6,7 +6,7 @@ When something triggers this module, the message is deleted and sent to the logs
 
 ```yaml
 censor:
-  level_whitelist: 40
+  whitelist_level: 40
   
   filter_invites: true
   invites_codes_whitelist:
