@@ -10,6 +10,7 @@ description: Find out the latest updates.
 
 * [Giveaways](../commands/giveaways.md) module.
 * [Reaction Roles](../configuration/modules/reaction-roles.md) module.
+* [Antiraid](../configuration/modules/antiraid.md) module.
 * `embed` and `random` to [joins](../configuration/modules/joins.md) and [leaves](../configuration/modules/leaves.md).
 
 ### Changed
