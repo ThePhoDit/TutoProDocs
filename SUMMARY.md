@@ -21,6 +21,8 @@
   * [Suggestions](configuration/modules/suggestions.md)
   * [Spam](configuration/modules/spam.md)
   * [Security](configuration/modules/security.md)
+  * [Antiraid](configuration/modules/antiraid.md)
+  * [Reaction Roles](configuration/modules/reaction-roles.md)
   * [Joins](configuration/modules/joins.md)
   * [Leaves](configuration/modules/leaves.md)
 
@@ -34,6 +36,7 @@
 * [Tags](commands/tags.md)
 * [Suggestions](commands/suggestions.md)
 * [Reminders](commands/reminders.md)
+* [Giveaways](commands/giveaways.md)
 * [Miscellaneous](commands/miscellaneous.md)
 
 ## other

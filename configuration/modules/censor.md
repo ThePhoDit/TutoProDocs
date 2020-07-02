@@ -7,7 +7,7 @@ When something triggers this module, the message is deleted and sent to the logs
 ```yaml
 censor:
   whitelist_level: 40
-  
+
   filter_invites: true
   invites_codes_whitelist:
     - 'minecraft'
@@ -52,7 +52,6 @@ censor:
   words_categories_whitelist: []
 ```
 
-  
 **Level Whitelist:** here you set the level the module will affect to. If the user has [level](levels.md) 50 and censor is set to 40, the user won't activate the filter. It will only be triggered if the user has the same level or lower.
 
 {% tabs %}
@@ -116,11 +115,11 @@ censor:
 {% endtabs %}
 
 {% hint style="info" %}
-### What is the difference between words and tokens?
+## What is the difference between words and tokens?
 
 If it's your first time using one bot of this type, we understand your confusion.
 
-#### Words
+### Words
 
 Words are always **separated by one space** on each side. If `Hello` was a blacklisted word:
 
@@ -128,7 +127,7 @@ Hello I'm PhoDit -&gt; Would be deleted.
 
 Hello, I'm PhoDit -&gt; Wouldn't be deleted.
 
-#### Tokens
+### Tokens
 
 Tokens can be anywhere inside a message. If `Hello` was a blacklisted token:
 

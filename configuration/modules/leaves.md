@@ -20,4 +20,7 @@ leaves:
   * **{{member}}** - Mentions the new user.
   * **{{memberTag}}** - Replaces it for the user tag, such as TutoPro\#4702.
   * **{{memberCount}}** - Displays the amount of members in your server.
+  * **{{server}}** - Server's name.
+* **Embed:** whether if an embed should be used or not.
+* **Random:** list of messages from where TutoPro will choose a random one.
 

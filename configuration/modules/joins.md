@@ -9,6 +9,10 @@ joins:
     - id: 'Channel ID 1'
       message: |-
         Hello {{member}}, welcome to {{server}}
+      embed: true
+      random:
+        - 'Message 1'
+        - 'Message 2'
     - id: 'Channel ID 2'
       message: |-
         Hello {{member}}, welcome to my Server.
@@ -23,6 +27,9 @@ joins:
   * **{{member}}** - Mentions the new user.
   * **{{memberTag}}** - Replaces it for the user tag, such as TutoPro\#4702.
   * **{{memberCount}}** - Displays the amount of members in your server.
+  * **{{server}}** - Server's name.
+* **Embed:** whether if an embed should be used or not.
+* **Random:** list of messages from where TutoPro will choose a random one.
 
 {% hint style="info" %}
 You can add as many channels as you like.

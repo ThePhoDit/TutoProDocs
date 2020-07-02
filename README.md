@@ -8,7 +8,7 @@ description: >-
 
 TutoPro is a discord bot mainly meant to be used as a moderation one, although it has more different options. It is fully configurable through a YAML file, and you will learn how to set everything up through this guide.
 
-### Useful Links
+## Useful Links
 
 [Support Server](https://discord.gg/aUNhdFD)
 

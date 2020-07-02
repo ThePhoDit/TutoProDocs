@@ -4,6 +4,18 @@ description: Find out the latest updates.
 
 # Changelog
 
+## Version 1.0.3
+
+### Added
+
+* [Giveaways](../commands/giveaways.md) module.
+* [Reaction Roles](../configuration/modules/reaction-roles.md) module.
+* `embed` and `random` to [joins](../configuration/modules/joins.md) and [leaves](../configuration/modules/leaves.md).
+
+### Changed
+
+* Failed commands will show usage.
+
 ## Version 1.0.2
 
 ### Added
