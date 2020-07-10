@@ -4,6 +4,17 @@ description: Find out the latest updates.
 
 # Changelog
 
+## Version 1.0.4
+
+### Added
+
+* [React](../commands/miscellaneous.md#add-a-reaction-to-a-message-100) command.
+* Image option at the [joins ](../configuration/modules/joins.md)module.
+
+### Changed
+
+* Fixed some bugs.
+
 ## Version 1.0.3
 
 ### Added

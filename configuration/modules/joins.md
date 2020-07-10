@@ -13,6 +13,7 @@ joins:
       random:
         - 'Message 1'
         - 'Message 2'
+      image: 'Image Link'
     - id: 'Channel ID 2'
       message: |-
         Hello {{member}}, welcome to my Server.
@@ -30,6 +31,7 @@ joins:
   * **{{server}}** - Server's name.
 * **Embed:** whether if an embed should be used or not.
 * **Random:** list of messages from where TutoPro will choose a random one.
+* **Image:** an image/gif link to send along with the welcome message. 
 
 {% hint style="info" %}
 You can add as many channels as you like.

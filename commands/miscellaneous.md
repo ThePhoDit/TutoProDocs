@@ -92,3 +92,9 @@ Bots is literally the word "bots". If you put it, the role will be also given to
 
 > Messages sent with this command will be saved.
 
+### Add a reaction to a message: \(100\)
+
+```text
+;react {channel} {message ID} {emoji}
+```
+
