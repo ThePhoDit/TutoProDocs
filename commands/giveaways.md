@@ -1,5 +1,9 @@
 # Giveaways
 
+{% hint style="danger" %}
+This module is temporarily disabled.
+{% endhint %}
+
 ### Start a giveaway \(100\):
 
 ```text
