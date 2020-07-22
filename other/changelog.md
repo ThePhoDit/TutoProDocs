@@ -4,6 +4,12 @@ description: Find out the latest updates.
 
 # Changelog
 
+## Version 1.0.5
+
+### Added
+
+* [Starboard](../configuration/modules/starboard.md) module.
+
 ## Version 1.0.4
 
 ### Added
