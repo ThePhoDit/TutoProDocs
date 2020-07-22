@@ -25,6 +25,7 @@
   * [Reaction Roles](configuration/modules/reaction-roles.md)
   * [Joins](configuration/modules/joins.md)
   * [Leaves](configuration/modules/leaves.md)
+  * [Starboard](configuration/modules/starboard.md)
 
 ## Commands
 
