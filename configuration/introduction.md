@@ -7,7 +7,7 @@ First of all, the server owner or an administrator has to run the `tp//setup` co
 The next thing you need to know is how to fetch the YAML file that we will be working on. To do this, you have to run the [export](../commands/configuration/export.md) command.
 
 {% hint style="info" %}
-We recommend you to use a text editor such as Visual Studio Code or Notepad++ in order to open the file. However you can use the one you like the most, even your PC's notepad.
+We recommend you to use a text editor such as Visual Studio Code or Notepad++ in order to open the file. However, you can use the one you like the most, even your PC's notepad.
 {% endhint %}
 
 This is what your file will look like the first time:
