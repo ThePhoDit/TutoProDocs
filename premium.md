@@ -2,11 +2,13 @@
 
 TutoPro has some premium features that are mainly meant to support us in order to properly host the bot.
 
-You can buy premium [here](https://patreon.com/thephodit): 
+You can buy premium here:&#x20;
 
-{% embed url="https://patreon.com/thephodit" %}
+{% hint style="danger" %}
+Buying premium is not currently available. If you really need it, please let us know in our support server.
+{% endhint %}
 
-###  **How to claim my premium version?**
+### &#x20;**How to claim my premium version?**
 
 * Join the [support server](https://support.phodit.xyz) if you're not in before purchasing premium.
 * Once you finish the paying process, you will receive a role in the Discord server.
@@ -22,4 +24,3 @@ You can buy premium [here](https://patreon.com/thephodit):
 * Premium role in the support server.
 * A cool badge on the [user](commands/miscellaneous.md#fetch-information-of-a-user) command.
 * More coming soon...
-

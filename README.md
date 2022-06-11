@@ -12,7 +12,4 @@ TutoPro is a discord bot mainly meant to be used as a moderation one, although i
 
 [Support Server](https://discord.gg/aUNhdFD)
 
-[Invite Link](https://discord.com/oauth2/authorize?client_id=626461058067988512&permissions=286125142&scope=bot)
-
-[Embed Builder](https://phodit.net/embedbuilder)
-
+[Invite Link](https://discord.com/oauth2/authorize?client\_id=626461058067988512\&scope=bot\&permissions=544923315415)

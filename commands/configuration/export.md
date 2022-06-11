@@ -10,11 +10,10 @@ Level 100
 
 ### Usage
 
-```text
+```
 ;export
 ```
 
 #### Example
 
-![](../../.gitbook/assets/discord_2l79mquiaq.png)
-
+![](../../.gitbook/assets/Discord\_2L79MqUIaQ.png)

@@ -10,7 +10,7 @@ Level 100
 
 ### Usage
 
-```text
+```
 ;import {file}
 
 -----
@@ -20,5 +20,4 @@ You just have to write the command and upload the file in the same message.
 
 #### Example
 
-![](../../.gitbook/assets/discord_tyqmumaees.png)
-
+![](../../.gitbook/assets/Discord\_TYQMuMaEEs.png)
